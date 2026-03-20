@@ -252,6 +252,7 @@ app_promo f2cd
 app_registration ef40
 app_settings_alt f2d9
 app_shortcut f2df
+app_spark fff82
 apparel ef7b
 approval e982
 approval_delegation f84a
@@ -1635,6 +1636,7 @@ frame_person_mic f4d5
 frame_person_off f7d1
 frame_reload f771
 frame_source f770
+frame_spark fff81
 free_breakfast eb44
 free_cancellation e748
 front_hand e769
@@ -1873,6 +1875,7 @@ home_pin f14d
 home_repair_service f100
 home_speaker f11c
 home_storage f86c
+home_storage_gear fff7e
 home_work f030
 horizontal_align_center fff9c
 horizontal_align_left fff9b
@@ -3876,7 +3879,9 @@ transition_fade f50c
 transition_push f50b
 transition_slide f50a
 translate e8e2
+translate_cc fff80
 translate_indic f263
+translate_subtitles fff7f
 transportation e21d
 travel ef93
 travel_explore e2db
