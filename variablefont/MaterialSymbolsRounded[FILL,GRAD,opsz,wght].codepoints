@@ -252,7 +252,6 @@ app_promo f2cd
 app_registration ef40
 app_settings_alt f2d9
 app_shortcut f2df
-app_spark fff82
 apparel ef7b
 approval e982
 approval_delegation f84a
@@ -1636,7 +1635,6 @@ frame_person_mic f4d5
 frame_person_off f7d1
 frame_reload f771
 frame_source f770
-frame_spark fff81
 free_breakfast eb44
 free_cancellation e748
 front_hand e769
@@ -2460,6 +2458,7 @@ moved_location e594
 movie e404
 movie_creation e404
 movie_edit f840
+movie_edit_off fff7d
 movie_filter e43a
 movie_info e02d
 movie_off f499
@@ -3222,6 +3221,7 @@ select_window_off e506
 self_care f86d
 self_improvement ea78
 sell f05b
+sell_cloud fff7b
 send e163
 send_and_archive ea0c
 send_money e8b7
@@ -3879,9 +3879,7 @@ transition_fade f50c
 transition_push f50b
 transition_slide f50a
 translate e8e2
-translate_cc fff80
 translate_indic f263
-translate_subtitles fff7f
 transportation e21d
 travel ef93
 travel_explore e2db
@@ -4199,9 +4197,7 @@ yard f089
 yoshoku f27f
 your_trips eb2b
 youtube_activity f85a
-youtube_activity_2 fff84
 youtube_searched_for e8fa
-youtube_video fff83
 zone_person_alert e781
 zone_person_idle e77a
 zone_person_urgent e788
