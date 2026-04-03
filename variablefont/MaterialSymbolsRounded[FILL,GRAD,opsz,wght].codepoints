@@ -518,6 +518,8 @@ blanket e828
 blender efe3
 blind f8d6
 blinds e286
+blinds_2 fff78
+blinds_2_closed fff79
 blinds_closed ec1f
 block f08c
 blood_pressure e097
@@ -1479,7 +1481,6 @@ fit_page_height f397
 fit_page_width f396
 fit_screen ea10
 fit_width f779
-fitbit_raquetball fffc5
 fitness_center eb43
 fitness_tracker f463
 fitness_trackers eef1
@@ -1681,6 +1682,7 @@ games e30f
 garage f011
 garage_check f28d
 garage_door e714
+garage_door_open fff77
 garage_home e82d
 garage_money f28c
 garden_cart f8a9
@@ -2107,6 +2109,7 @@ license eb04
 lift_to_talk efa3
 light f02a
 light_group e28b
+light_group_2 fff76
 light_mode e518
 light_off e9b8
 lightbulb e90f
@@ -2114,6 +2117,7 @@ lightbulb_2 f3e3
 lightbulb_circle ebfe
 lightbulb_outline e90f
 lightning_stand efa4
+lightstrip fff75
 line_axis ea9a
 line_curve f757
 line_end f826
@@ -3287,6 +3291,8 @@ settings_video_camera f621
 settings_voice e8c8
 settop_component e2ac
 severe_cold ebd3
+shades fff73
+shades_closed fff74
 shadow e9df
 shadow_add f584
 shadow_minus f583
@@ -3432,6 +3438,7 @@ sound_detection_dog_barking f149
 sound_detection_glass_break f14a
 sound_detection_loud_sound f14b
 sound_sampler f6b4
+soundbar fff72
 soup_kitchen e7d3
 source f1c8
 source_environment e527
@@ -3449,6 +3456,7 @@ spatial_audio_off ebe8
 spatial_speaker f4cf
 spatial_tracking ebea
 speaker e32d
+speaker_2 fff71
 speaker_group e32e
 speaker_notes e8cd
 speaker_notes_off e92a
@@ -3612,6 +3620,7 @@ subtitles_gear f355
 subtitles_off ef72
 subway e56f
 subway_walk f287
+subwoofer fff70
 summarize f071
 sunny e81a
 sunny_snowing e819
@@ -3653,6 +3662,7 @@ switch_access_shortcut_add e7e2
 switch_account e9ed
 switch_camera e41e
 switch_left f1d1
+switch_off fff6f
 switch_right f1d2
 switch_video e41f
 switches e733
@@ -3965,6 +3975,8 @@ usb_off e4fa
 user_attributes e708
 vaccines e138
 vacuum efc5
+vacuum_2 fff6d
+vacuum_2_on fff6e
 valve e224
 vape_free ebc6
 vaping_rooms ebcf
