@@ -2745,6 +2745,7 @@
     "symbols::body_fat": 399,
     "symbols::body_system": 399,
     "symbols::bolt": 399,
+    "symbols::bolt_boost": 415,
     "symbols::bomb": 399,
     "symbols::book": 329,
     "symbols::book_2": 399,
