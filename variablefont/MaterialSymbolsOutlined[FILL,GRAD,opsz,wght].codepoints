@@ -472,12 +472,18 @@ battery_android_share f301
 battery_android_shield f300
 battery_change f7eb
 battery_charging_20 f0a2
+battery_charging_20_2 fff3e
 battery_charging_30 f0a3
+battery_charging_30_2 fff3d
 battery_charging_50 f0a4
+battery_charging_50_2 fff3c
 battery_charging_60 f0a5
+battery_charging_60_2 fff3b
 battery_charging_80 f0a6
+battery_charging_80_2 fff3a
 battery_charging_90 f0a7
 battery_charging_full e1a3
+battery_charging_full_2 fff39
 battery_error f7ea
 battery_full e1a5
 battery_full_alt f13b
@@ -707,6 +713,7 @@ car_fan_mid_left f33b
 car_fan_mid_low_right f33a
 car_fan_mid_right f339
 car_fan_recirculate f338
+car_fan_recirculate_2 fff40
 car_gear f337
 car_lock f336
 car_mirror_heat f335
@@ -2147,6 +2154,7 @@ list e896
 list_alt e0ee
 list_alt_add f756
 list_alt_check f3de
+list_arrow fff33
 lists e9b9
 live_help e0c6
 live_tv e63a
@@ -4165,6 +4173,7 @@ wifi_calling_bar_1 f44c
 wifi_calling_bar_2 f44b
 wifi_calling_bar_3 f44a
 wifi_channel eb6a
+wifi_device fff34
 wifi_find eb31
 wifi_home f671
 wifi_lock e1e1
