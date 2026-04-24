@@ -2874,7 +2874,9 @@ pill_off f809
 pin f045
 pin_drop e55e
 pin_end e767
+pin_history fff2e
 pin_invoke e763
+pin_road fff2d
 pinboard f3ab
 pinboard_unread f3ac
 pinch eb38
@@ -3320,11 +3322,13 @@ shelf_auto_hide f703
 shelf_position f702
 shelves f86e
 shield e9e0
+shield_card fff30
 shield_lock f686
 shield_locked f592
 shield_moon eaa9
 shield_person f650
 shield_question f529
+shield_radar fff2f
 shield_toggle f2ad
 shield_watch f30f
 shield_with_heart e78f
@@ -3487,7 +3491,10 @@ speed_1_5 f4e0
 speed_1_5x f494
 speed_1_75 f4d1
 speed_1_7x f493
+speed_2 fff38
 speed_2x f4eb
+speed_3 fff37
+speed_4 fff36
 speed_camera f470
 spellcheck e8ce
 split_scene f3bf
@@ -3867,6 +3874,7 @@ tornado e199
 total_dissolved_solids f877
 touch_app e913
 touch_double f38b
+touch_double_2 fff35
 touch_long f38a
 touch_triple f389
 touchpad_mouse f687
