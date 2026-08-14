@@ -1149,6 +1149,7 @@ disc_full e610
 discover_tune e018
 dishwasher e9a0
 dishwasher_gen e832
+display_add ffed2
 display_external_input f7e7
 display_settings eb97
 distance f6ea
@@ -1725,6 +1726,7 @@ globe_2_cancel fffb7
 globe_2_question fffb6
 globe_asia f799
 globe_book f3c9
+globe_clock ffed1
 globe_location_pin f35d
 globe_uk f798
 glucose e4a0
@@ -3780,6 +3782,7 @@ temple_hindu eaaf
 tenancy f0e3
 terminal eb8e
 terminal_2 fff8e
+terminal_add ffed3
 terrain e564
 text_ad e728
 text_ad_off fff92
