@@ -315,7 +315,7 @@ arrows_output f393
 arrows_outward f72c
 arrows_up_down_circle eee3
 art_track e060
-article ef87
+article ef42
 article_person f368
 article_shortcut f587
 artist e01a
@@ -516,7 +516,7 @@ beenhere e52d
 beer_meal f285
 bento f1f4
 bia f6eb
-bid_landscape e678
+bid_landscape e667
 bid_landscape_disabled ef81
 bigtop_updates e669
 bike_dock f47b
@@ -638,6 +638,7 @@ bucket_check ef2a
 bug_report e868
 build f8cd
 build_circle ef48
+bullet_chart ffec7
 bungalow e591
 burst_mode e43c
 bus_alert e98f
@@ -1181,6 +1182,7 @@ document_search f385
 domain e7ee
 domain_add eb62
 domain_disabled e0ef
+domain_disabled_check ffec6
 domain_verification ef4c
 domain_verification_off f7b0
 domino_mask f5e4
@@ -1204,7 +1206,7 @@ download_2 f523
 download_done f091
 download_for_offline f000
 downloading f001
-draft e674
+draft e66d
 draft_orders e7b3
 drafts e151
 drag_click f71f
@@ -1224,7 +1226,6 @@ drive_file_move_rtl e9a1
 drive_file_rename e676
 drive_file_rename_outline e9a2
 drive_folder_upload e9a3
-drive_fusiontable e678
 drone f25a
 drone_2 f259
 dropdown e9a4
@@ -1989,7 +1990,7 @@ insert_chart f0cc
 insert_chart_filled f0cc
 insert_chart_outlined f0cc
 insert_comment e24c
-insert_drive_file e674
+insert_drive_file e66d
 insert_emoticon ea22
 insert_invitation e878
 insert_link e250
@@ -2167,7 +2168,8 @@ linked_services f535
 lips eeb2
 liquor ea60
 list e896
-list_alt e677
+list_2 ffeca
+list_alt e0ee
 list_alt_add f756
 list_alt_check f3de
 list_arrow fff33
@@ -2485,8 +2487,8 @@ move_selection_up f711
 move_to_inbox e168
 move_up eb64
 moved_location e594
-movie e684
-movie_creation e684
+movie e404
+movie_creation e404
 movie_edit f840
 movie_edit_off fff7d
 movie_filter e43a
@@ -2645,7 +2647,7 @@ not_accessible_forward f54a
 not_interested f08c
 not_listed_location e575
 not_started f0d1
-note e674
+note e66d
 note_add e89c
 note_alt f040
 note_stack f562
@@ -3416,6 +3418,7 @@ signpost eb91
 sim_card e32b
 sim_card_alert f057
 sim_card_download f068
+sim_card_lock ffec1
 simulation f3e1
 single_arrow ffed9
 single_bed ea48
@@ -3502,6 +3505,7 @@ speaker_phone e0d2
 special_character f74a
 specific_gravity f872
 speech_to_text f8a7
+speech_to_text_2 ffec9
 speed e9e4
 speed_0_25 f4d4
 speed_0_2x f498
@@ -4181,7 +4185,7 @@ wc e63d
 weather_hail f67f
 weather_mix f60b
 weather_snowy e2cd
-web e681
+web e66a
 web_asset e069
 web_asset_off ef47
 web_stories e595
