@@ -723,6 +723,7 @@ car_lock f336
 car_mirror_heat f335
 car_rental ea55
 car_repair ea56
+car_seat_off ffebe
 car_tag f4e3
 card_giftcard e8f6
 card_membership e8f7
@@ -3610,6 +3611,7 @@ stay_current_landscape ed3e
 stay_current_portrait e7ba
 stay_primary_landscape ed3e
 stay_primary_portrait f2d3
+steering_wheel_cool ffebd
 steering_wheel_heat f32b
 step f6fe
 step_into f701
